@@ -1,0 +1,15 @@
+{
+  "name": "claim-icons",
+  "version": "0.0.1",
+  "description": "claim icons",
+  "main": "iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "claim",
+    "icons"
+  ],
+  "author": "bugong",
+  "license": "MIT"
+}

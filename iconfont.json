@@ -1,0 +1,219 @@
+{
+  "id": "2214947",
+  "name": "索赔-厂端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18357629",
+      "name": "basic-data",
+      "font_class": "basic-data",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "18357630",
+      "name": "registration-management",
+      "font_class": "registration-management",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "18357631",
+      "name": "report-management",
+      "font_class": "report-management",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "18357632",
+      "name": "settlement-management",
+      "font_class": "settlement-management",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18357633",
+      "name": "s-consult",
+      "font_class": "s-consult",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "18357634",
+      "name": "return",
+      "font_class": "return",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18357635",
+      "name": "s-up",
+      "font_class": "s-up",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "18357636",
+      "name": "user-2",
+      "font_class": "user-2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "18357637",
+      "name": "system-background",
+      "font_class": "system-background",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18357638",
+      "name": "s-books",
+      "font_class": "s-books",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "18326176",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18326177",
+      "name": "appoint",
+      "font_class": "appoint",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18326178",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18326179",
+      "name": "correct",
+      "font_class": "correct",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "18326180",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18326181",
+      "name": "computer",
+      "font_class": "computer",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18326182",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18326183",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "18326184",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18326185",
+      "name": "claim",
+      "font_class": "claim",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18326186",
+      "name": "cut-out",
+      "font_class": "cut-out",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "18326187",
+      "name": "news",
+      "font_class": "news",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "18326188",
+      "name": "screen",
+      "font_class": "screen",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "18326189",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "18326190",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18326191",
+      "name": "recall",
+      "font_class": "recall",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "18326192",
+      "name": "news-2",
+      "font_class": "news-2",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "18326193",
+      "name": "vin-2",
+      "font_class": "vin-2",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18326194",
+      "name": "vin",
+      "font_class": "vin",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "18326195",
+      "name": "claim-claim",
+      "font_class": "claim-claim",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
