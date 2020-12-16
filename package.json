@@ -1,6 +1,6 @@
 {
   "name": "claim-icons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "claim icons",
   "main": "./lib/iconfont.js",
   "scripts": {
